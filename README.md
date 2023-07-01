@@ -1,5 +1,8 @@
 Instructions
 
+To clone the git repo to your local machine, follow the steps here: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+
 Make sure you have a chromedriver.exe that supports your Chrome browser: https://chromedriver.chromium.org/downloads
 1. Open the glassdoor_login.json file and input your login information.
 2. Create a Google Service Account by following the steps found here:
